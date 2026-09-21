@@ -23,5 +23,5 @@ https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithu
 
 ## What is due
 
-Nothing from this notebook is submitted. P/NP #5 (estimates, MOEs, and significance tests for two Assignment 1 questions) is due Sunday, October 4, after Lab 5.
+Nothing from this notebook is submitted yet. P/NP #5 (estimates, MOEs, and significance tests for two Assignment 1 questions) is due Sunday, October 4, after Lab 5.
 
