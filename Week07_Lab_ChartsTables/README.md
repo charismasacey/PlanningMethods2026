@@ -18,7 +18,7 @@ You can make your exhibits in Python or in Excel. Both are fine for Assignment 1
 
 **To start the lab:** click the Lab 6 notebook link below. It opens in Berkeley Datahub, right in your browser.
 
-https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcharismasacey%2FPlanningMethods2026&branch=main&urlpath=tree%2FPlanningMethods2026%2FWeek07_Lab_Exhibits%2FLab6_Notebook_Student.ipynb
+https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcharismasacey%2FPlanningMethods2026&branch=main&urlpath=tree%2FPlanningMethods2026%2FWeek07_Lab_ChartsTables%2FLab6_Notebook_Student.ipynb
 
 **Bring:** the CSV files Lab 4 saved for your own neighborhood. If they are not in your Datahub Week 5 folder anymore, Lab 5 Section 1.1 explains how to upload them.
 
