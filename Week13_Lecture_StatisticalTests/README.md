@@ -20,4 +20,4 @@ This notebook looks for your cleaned Lab 12 file in `../Week13_Lab_CleaningSurve
 
 ## What you submit
 
-Nothing from this notebook. You copy its results into the P/NP #11 form, due Sunday, November 29, at 11:59 p.m.
+Copy the results of this notebook into the P/NP #11 Part 2 form (see bCourses), due Sunday, November 29, at 11:59 p.m.
